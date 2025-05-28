@@ -1,0 +1,24 @@
+html{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+body{
+background-color:#17ff00;
+}
+div.ficha{
+width:200px
+float:left;
+margin:1px;
+}
+ul#menu{
+margin:1px;
+padding:1px;
+list-style-tipe:none
+}
+#menu li {
+background-color:cyan;
+border:lightble 3px solid;
+margin: 1px; 
+float: left;
+}
