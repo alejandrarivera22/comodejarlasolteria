@@ -8,8 +8,9 @@ background-color:#17ff00;
 }
 div.ficha{
 width:200px
+height120px;
 float:left;
-margin:1px;
+margin:15px;
 }
 ul#menu{
 margin:1px;
